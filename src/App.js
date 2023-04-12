@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <p>react app</p>
+    <p>Teravista App</p>
   );
 }
 
