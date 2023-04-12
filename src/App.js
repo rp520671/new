@@ -1,8 +1,9 @@
 import './App.css';
+import JsonServer from './Components/JsonServer';
 
 function App() {
   return (
-    <p>Teravista App</p>
+    <JsonServer/>
   );
 }
 
