@@ -1,0 +1,76 @@
+
+{
+   "users":[
+        {"Srno":1,
+         "ReceiverName":"Rohan Patil",
+         "CompanyName": "Teravista.io",
+         "EmailId": "rohanpatil123@gmail.com",
+         "MobileNo": 9867456789,
+         "Place":"SakiNaka"
+        },
+
+        {"Srno":2,
+         "ReceiverName":"Aniket Chate",
+         "CompanyName":"Teravista.io",
+         "EmailId":"aniketchate321@gmail.com",
+         "MobileNo":4567890123,
+         "Place":"ghatkopar"
+        },
+        {"Srno":3,
+        "ReceiverName":"Rohit Gawade",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohitgawade234@gmail.com",
+        "MobileNo":  7896543521,
+        "Place":"kalyan"
+        },
+        {"Srno":4,
+        "ReceiverName":"Sahil Patil",
+        "CompanyName": "Sankey Solutions",
+        "EmailId": "sahilP4@gmail.com",
+        "MobileNo": 8765083224,
+        "Place":"Ambernath"
+        },
+        {"Srno":5,
+        "ReceiverName":"Sanket Pawar",
+        "CompanyName": "Mindcraft",
+        "EmailId": "sankepaw11@gmail.com",
+        "MobileNo": 7645786730,
+        "Place":"Dombivli"
+        },
+        {"Srno":6,
+        "ReceiverName":"Rohan Patil",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohanpatil123@gmail.com",
+        "MobileNo": 9867456789,
+        "Place":"SakiNaka"
+        },
+        {"Srno":7,
+        "ReceiverName":"Rohan Patil",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohanpatil123@gmail.com",
+        "MobileNo": 9867456789,
+        "Place":"SakiNaka"
+        },
+        {"Srno":8,
+        "ReceiverName":"Rohan Patil",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohanpatil123@gmail.com",
+        "MobileNo": 9867456789,
+        "Place":"SakiNaka"
+        },
+        {"Srno":9,
+        "ReceiverName":"Rohan Patil",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohanpatil123@gmail.com",
+        "MobileNo": 9867456789,
+        "Place":"SakiNaka"
+        },
+        {"Srno":10,
+        "ReceiverName":"Rohan Patil",
+        "CompanyName": "Teravista.io",
+        "EmailId": "rohanpatil123@gmail.com",
+        "MobileNo": 9867456789,
+        "Place":"SakiNaka"
+        }
+    ]
+} 
